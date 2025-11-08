@@ -1,4 +1,8 @@
+<div align="center">
+  
 # Hello! I am Heet Patel 👋
+
+</div>
 
 <div align="center">
   
