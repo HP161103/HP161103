@@ -154,16 +154,6 @@ experience = {
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HP161103&theme=github-compact&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF)
-
-</div>
-
----
-
 ## 🎓 Certifications
 
 - 🏆 Machine Learning Specialization - Stanford University (Coursera)
@@ -179,13 +169,6 @@ experience = {
 - 👯 Open to collaborate on ML/AI projects with real-world impact
 - 💬 Ask me about: Machine Learning, Data Science, Python, Generative AI
 - 📫 Reach me: heetpatel16003@gmail.com
-
----
-
-## 📊 This Week's Coding Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 
